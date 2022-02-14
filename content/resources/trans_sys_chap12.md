@@ -4,7 +4,12 @@ description: This resource talks about freight level-of-service--the inventory m
   modes and summary--commonalities and differences.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-221j-transportation-systems-fall-2004/5193c45c65aff5ea0f08ea394a6996c9_trans_sys_chap12.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: trans_sys_chap12.pdf
+type: OCWFile
 uid: 5193c45c-65af-f5ea-0f08-ea394a6996c9
 ---

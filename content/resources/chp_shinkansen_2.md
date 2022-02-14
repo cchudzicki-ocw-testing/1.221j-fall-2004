@@ -8,7 +8,9 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
 resourcetype: Image
 title: chp_shinkansen_2.jpg
+type: OCWImage
 uid: 86a058c4-ca64-1832-1796-ce3168031bd8
 ---

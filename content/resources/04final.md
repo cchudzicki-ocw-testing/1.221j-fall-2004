@@ -4,7 +4,12 @@ description: This resource includes problems on university ring bus system, and 
   funding.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-221j-transportation-systems-fall-2004/7f991483888dbd3d7ba3b89622bcffb8_04final.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: 04final.pdf
+type: OCWFile
 uid: 7f991483-888d-bd3d-7ba3-b89622bcffb8
 ---

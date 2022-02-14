@@ -8,7 +8,12 @@ description: 'This resource talks about the following:  Differences between Trav
   Deterministic Queuing.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-221j-transportation-systems-fall-2004/85229e06f9728b4df005cfaec980bb9d_trans_sys_chap21.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: trans_sys_chap21.pdf
+type: OCWFile
 uid: 85229e06-f972-8b4d-f005-cfaec980bb9d
 ---
