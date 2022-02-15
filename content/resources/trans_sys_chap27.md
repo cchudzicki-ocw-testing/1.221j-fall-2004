@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: trans_sys_chap27.pdf
-type: OCWFile
 uid: 77658542-8960-6efc-2f13-0c42fb833da6
 ---

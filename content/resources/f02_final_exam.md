@@ -13,6 +13,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: f02_final_exam.pdf
-type: OCWFile
 uid: 6c541c7b-e22d-dcaf-f95b-32575a47b97f
 ---

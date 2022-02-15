@@ -11,6 +11,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: a1fearing.pdf
-type: OCWFile
 uid: c43531ad-6c0e-57a3-10b1-0077472d98f2
 ---

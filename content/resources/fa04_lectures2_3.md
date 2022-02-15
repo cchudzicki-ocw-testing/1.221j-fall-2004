@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: fa04_lectures2_3.pdf
-type: OCWFile
 uid: 605c2418-c9a9-6feb-cd08-84b59035f6ec
 ---

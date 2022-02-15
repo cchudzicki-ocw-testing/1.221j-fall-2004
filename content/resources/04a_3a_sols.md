@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: 04a_3a_sols.xls
-type: OCWFile
 uid: bab06594-4944-5c63-5e53-897b255b69af
 ---

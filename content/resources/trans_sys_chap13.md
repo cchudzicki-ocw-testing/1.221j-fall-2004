@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: trans_sys_chap13.pdf
-type: OCWFile
 uid: b721d8f7-6cb9-13de-c487-333229c1915b
 ---

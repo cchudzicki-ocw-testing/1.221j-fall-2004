@@ -10,6 +10,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: 04final.pdf
-type: OCWFile
 uid: 7f991483-888d-bd3d-7ba3-b89622bcffb8
 ---

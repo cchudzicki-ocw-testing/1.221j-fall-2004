@@ -11,6 +11,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 04assn1.pdf
-type: OCWFile
 uid: eb5ebc9c-76f0-10fb-686e-06675c7754f3
 ---

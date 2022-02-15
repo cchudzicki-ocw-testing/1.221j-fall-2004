@@ -11,6 +11,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: a1bonnefoy.pdf
-type: OCWFile
 uid: 57481a94-5c07-f047-5ca8-600c6f27d517
 ---

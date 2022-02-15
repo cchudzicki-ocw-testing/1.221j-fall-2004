@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: fa04_lex4.pdf
-type: OCWFile
 uid: 14f2e669-f637-a4d7-04de-c7b2148e56d8
 ---

@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: f00_asst3.pdf
-type: OCWFile
 uid: dc6cdab6-2493-fc57-640f-3d33e04f7675
 ---

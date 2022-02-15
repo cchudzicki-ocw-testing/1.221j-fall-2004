@@ -13,6 +13,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: fa04_lex11fwd.pdf
-type: OCWFile
 uid: 0f9e5673-dcc2-b137-2bb0-ea63011564cc
 ---
