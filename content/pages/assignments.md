@@ -35,33 +35,21 @@ student examples
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Assignment 1 ({{< resource_link eb5ebc9c-76f0-10fb-686e-06675c7754f3 "PDF" >}})
+Assignment 1 ({{% resource_link eb5ebc9c-76f0-10fb-686e-06675c7754f3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
 {{< tdclose >}}
 {{< tdopen >}}
-Philippe Bonnefoy ({{< resource_link 57481a94-5c07-f047-5ca8-600c6f27d517 "PDF" >}})  
+Philippe Bonnefoy ({{% resource_link 57481a94-5c07-f047-5ca8-600c6f27d517 "PDF" %}})  
   
-Rebecca Fearing ({{< resource_link c43531ad-6c0e-57a3-10b1-0077472d98f2 "PDF" >}})
+Rebecca Fearing ({{% resource_link c43531ad-6c0e-57a3-10b1-0077472d98f2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Assignment 2A ({{< resource_link 52181ac5-4825-a870-080b-49594638863b "PDF" >}})
-{{< tdclose >}}
-{{< tdopen >}}
- 
-{{< tdclose >}}
-{{< tdopen >}}
- 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Assignment 2B ({{< resource_link 529c82dc-6f31-e0a7-0513-80ff982c6822 "PDF" >}})
+Assignment 2A ({{% resource_link 52181ac5-4825-a870-080b-49594638863b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -73,12 +61,24 @@ Assignment 2B ({{< resource_link 529c82dc-6f31-e0a7-0513-80ff982c6822 "PDF" >}})
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Assignment 3 ({{< resource_link a476eddb-c723-b72e-d5bc-faa32f90039c "PDF" >}})
+Assignment 2B ({{% resource_link 529c82dc-6f31-e0a7-0513-80ff982c6822 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-3A Solutions ({{< resource_link bab06594-4944-5c63-5e53-897b255b69af "XLS" >}})  
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 3 ({{% resource_link a476eddb-c723-b72e-d5bc-faa32f90039c "PDF" %}})
+{{< tdclose >}}
+{{< tdopen >}}
+3A Solutions ({{% resource_link bab06594-4944-5c63-5e53-897b255b69af "XLS" %}})  
   
-3B Solutions ({{< resource_link 3b0bbf29-2683-0799-0a72-9c4a98320a9a "XLS" >}})
+3B Solutions ({{% resource_link 3b0bbf29-2683-0799-0a72-9c4a98320a9a "XLS" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -93,7 +93,7 @@ Assignment 3 ({{< resource_link a476eddb-c723-b72e-d5bc-faa32f90039c "PDF" >}})
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Assignment 3 ({{< resource_link 2cea4115-ad66-43d0-53c1-cf55e8a640e6 "PDF" >}})
+Assignment 3 ({{% resource_link 2cea4115-ad66-43d0-53c1-cf55e8a640e6 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -111,7 +111,7 @@ Assignment 3 ({{< resource_link 2cea4115-ad66-43d0-53c1-cf55e8a640e6 "PDF" >}})
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Assignment 1 ({{< resource_link 4c399da1-c0d3-53b6-777f-0c4222672b7c "PDF" >}})
+Assignment 1 ({{% resource_link 4c399da1-c0d3-53b6-777f-0c4222672b7c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -123,7 +123,7 @@ Assignment 1 ({{< resource_link 4c399da1-c0d3-53b6-777f-0c4222672b7c "PDF" >}})
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Assignment 2: Introduction ({{< resource_link 8674ccd6-42ff-c7e5-ccd4-f2c5869fcf34 "PDF" >}})
+Assignment 2: Introduction ({{% resource_link 8674ccd6-42ff-c7e5-ccd4-f2c5869fcf34 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -135,7 +135,7 @@ Assignment 2: Introduction ({{< resource_link 8674ccd6-42ff-c7e5-ccd4-f2c5869fc
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Assignment 2A ({{< resource_link 4d314c07-bf85-0393-650c-20cb96d48531 "PDF" >}})
+Assignment 2A ({{% resource_link 4d314c07-bf85-0393-650c-20cb96d48531 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -147,7 +147,7 @@ Assignment 2A ({{< resource_link 4d314c07-bf85-0393-650c-20cb96d48531 "PDF" >}})
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Assignment 2B ({{< resource_link af58f1f4-457b-1ba1-99c4-121cc4e46360 "PDF" >}})
+Assignment 2B ({{% resource_link af58f1f4-457b-1ba1-99c4-121cc4e46360 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -165,7 +165,7 @@ Assignment 2B ({{< resource_link af58f1f4-457b-1ba1-99c4-121cc4e46360 "PDF" >}})
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Assignment 3 ({{< resource_link ce45bd29-bf54-f855-8231-51cb4a1b64de "PDF" >}})
+Assignment 3 ({{% resource_link ce45bd29-bf54-f855-8231-51cb4a1b64de "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -183,7 +183,7 @@ Assignment 3 ({{< resource_link ce45bd29-bf54-f855-8231-51cb4a1b64de "PDF" >}})
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Assignment 3 ({{< resource_link dc6cdab6-2493-fc57-640f-3d33e04f7675 "PDF" >}})
+Assignment 3 ({{% resource_link dc6cdab6-2493-fc57-640f-3d33e04f7675 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
