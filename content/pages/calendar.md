@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Information on the course schedule.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
