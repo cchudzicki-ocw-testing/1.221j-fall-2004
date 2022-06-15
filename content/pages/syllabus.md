@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus contains course description and Academic  Honesty Policy
+  for 1.221J / 11.527J / ESD.201J.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

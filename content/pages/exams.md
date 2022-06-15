@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Exams from the past four years are presented in this section.  All exams
+  are open book and open notes.  Calculators are allowed, but not laptops.  Reading
+  the entire exam before starting is critical, so as to allow proper planning of your
+  time.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

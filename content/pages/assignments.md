@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section gives a brief purpose of the assignments for the course
+  and also lists those assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
