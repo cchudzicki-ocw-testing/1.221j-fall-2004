@@ -6,6 +6,7 @@ file: /courses/1-221j-transportation-systems-fall-2004/26b3999bdd0b73d4eb040f336
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

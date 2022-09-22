@@ -7,6 +7,7 @@ file: /courses/1-221j-transportation-systems-fall-2004/8674ccd642ffc7e5ccd4f2c58
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
